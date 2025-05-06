@@ -1,0 +1,10 @@
+C:\Users\elmer\source\repos\CH8_4\CH8_4\bin\Debug\CH8_4.exe.config
+C:\Users\elmer\source\repos\CH8_4\CH8_4\bin\Debug\CH8_4.exe
+C:\Users\elmer\source\repos\CH8_4\CH8_4\bin\Debug\CH8_4.pdb
+C:\Users\elmer\source\repos\CH8_4\CH8_4\obj\Debug\CH8_4.csproj.AssemblyReference.cache
+C:\Users\elmer\source\repos\CH8_4\CH8_4\obj\Debug\CH8_4.Form1.resources
+C:\Users\elmer\source\repos\CH8_4\CH8_4\obj\Debug\CH8_4.Properties.Resources.resources
+C:\Users\elmer\source\repos\CH8_4\CH8_4\obj\Debug\CH8_4.csproj.GenerateResource.cache
+C:\Users\elmer\source\repos\CH8_4\CH8_4\obj\Debug\CH8_4.csproj.CoreCompileInputs.cache
+C:\Users\elmer\source\repos\CH8_4\CH8_4\obj\Debug\CH8_4.exe
+C:\Users\elmer\source\repos\CH8_4\CH8_4\obj\Debug\CH8_4.pdb
